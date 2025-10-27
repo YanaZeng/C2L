@@ -1,4 +1,4 @@
-# Temporal Confounded Causal Imitation Learning
+# Confounded Causal Imitation Learning with Instrumental Variables
 
 A framework for Confounded Causal Imitation Learning (C2L). 
 C2L is a two-stage imitation learning framework that combats confounding effects in expert demonstrations:
